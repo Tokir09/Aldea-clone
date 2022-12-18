@@ -1,0 +1,46 @@
+
+div h1 {
+position: absolute;
+width: 100%;
+background:#5f249f ;
+color: azure;
+margin-top: 12px;
+margin-left:px;
+
+padding-top: 10px;
+padding-bottom: 5px;
+
+}
+div h1{
+padding-left: 40px;
+font-size: 25px;
+font-weight: 700px;
+}
+
+div img {
+    position:relative;
+    
+  margin: 10px auto ;
+  max-width: 130px;
+  }
+
+div table{
+    margin-left: 125px;
+    margin-top: -60px;
+    padding: auto;
+    max-width: fit-content;
+  }
+ 
+td{
+    
+    padding: 5px 16px;
+    margin-left:100px;
+    margin-top: -220px;
+}
+div table td a{
+    text-decoration: none;
+    color: black;
+    font-size: small;
+    font-weight: bold;
+  }
+ 
